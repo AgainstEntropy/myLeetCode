@@ -1,3 +1,7 @@
+# Longest Palindromic Subsequence
+# 最长回文子序列
+
+
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
         n = len(s)
