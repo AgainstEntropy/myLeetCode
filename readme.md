@@ -24,12 +24,13 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Python](./python/179.py) |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/704.py) |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/34.py) |
-<!-- | 0153 |
-| 0033 |
-| 0162 |
-| 0004 |
-| 0240 |
-| 0069 |
+| 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./python/153.py) |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [python](./python/33.py) |
+| 0162 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-peak-element/) | [python](./python/162.py) |
+| 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [python](./python/4.py) |
+| 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [python](./python/240.py) |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [python](./python/69.py) |
+<!-- 
 | 0015 |
 | 0283 |
 | 0415 |
@@ -69,6 +70,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### Others
 
-| No.  | Title | Solutions | |
-| :--- | :---- | :-------- | - |
-|  516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |
+| No.  | Title | Solutions | | |
+| :--- | :---- | :-------- | - | - |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) |  |  | [C++](./cpp/1.cpp) |
+| 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |
