@@ -6,7 +6,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![11%](https://progress-bar.dev/11)
+![15%](https://progress-bar.dev/15)
 <!-- | Python  | Rust | 
 | :---: | :---: |
 | ![11%](https://progress-bar.dev/11) | ![0%](https://progress-bar.dev/0) |  -->
