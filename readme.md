@@ -20,8 +20,8 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![24%](https://progress-bar.dev/24)
-<!-- | Python  | Rust | 
+![26%](https://progress-bar.dev/26)
+<!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.dev/11) | ![0%](https://progress-bar.dev/0) |  -->
 
@@ -50,10 +50,10 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0239 | <hard> Hard </hard> | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [python](./python/239.py) |
 | 0003 | <medium> Medium </medium> | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python](./python/3.py) |
 | 0076 | <hard> Hard </hard> | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [python](./python/76.py) |
+| 0718 | <medium> Medium </medium> | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [python](./python/718.py) |
+| 0083 | <easy> Easy </easy> | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [python](./python/83.py) |
 | 0206 | <easy> Easy </easy> | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [python](./python/206.py) |
-<!-- 
-| 0718 |
-| 0083 |
+<!--
 | 0082 |
 | 0092 |
 | 0025 |
