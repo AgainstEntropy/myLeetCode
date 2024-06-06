@@ -87,5 +87,6 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | No.  | Difficulty | Title | Solutions | | |
 | :--- | :--------: | :---- | :-------- | - | - |
 | 0001 | <easy> Easy </easy> | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1.py) |  | [C++](./cpp/1.cpp) |
+| 0039 | <medium> Medium </medium> | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/39.py) |  |  |
 | 0167 | <medium> Medium </medium> | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/167.py) |  |  |
 | 0516 | <medium> Medium </medium> | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |  |
