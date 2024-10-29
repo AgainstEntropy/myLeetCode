@@ -28,11 +28,7 @@ impl Solution {
     }
 }
 
-#[test]
-fn test() {
+fn main() {
     assert_eq!(Solution::longest_palindrome_subseq("bbbab".to_string()), 4);
     assert_eq!(Solution::longest_palindrome_subseq("cbbd".to_string()), 2);
-}
-
-fn main() {
 }

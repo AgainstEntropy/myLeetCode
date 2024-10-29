@@ -8,5 +8,5 @@ __pycache__
 *.ipynb
 
 # rust
-Cargo*
+Cargo.lock
 rust/target
