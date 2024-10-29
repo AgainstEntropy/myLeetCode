@@ -1,9 +1,11 @@
 .vscode
 *.exe
-
 *draft*
-*.ipynb
 OAs/
+
+# python
+__pycache__
+*.ipynb
 
 # rust
 Cargo*

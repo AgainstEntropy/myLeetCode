@@ -1,3 +1,5 @@
+# myLeetCode
+
 <style>
 easy {
   color: LimeGreen;
@@ -12,18 +14,16 @@ hard {
 }
 </style>
 
-# myLeetCode
-
 A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ## Problem Lists
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![26%](https://progress-bar.dev/26)
+![28%](https://progress-bar.xyz/28)
 <!-- | Python  | Rust |
 | :---: | :---: |
-| ![11%](https://progress-bar.dev/11) | ![0%](https://progress-bar.dev/0) |  -->
+| ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
 
 | No.  | Difficulty | Title | Solutions |
 | ---: | :--------: | :---- | :-------- |
@@ -52,10 +52,10 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0076 | <hard> Hard </hard> | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [python](./python/76.py) |
 | 0718 | <medium> Medium </medium> | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [python](./python/718.py) |
 | 0083 | <easy> Easy </easy> | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [python](./python/83.py) |
+| 0082 | <medium> Medium </medium> | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [python](./python/82.py) |
 | 0206 | <easy> Easy </easy> | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [python](./python/206.py) |
+| 0092 | <medium> Medium </medium> | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [python](./python/92.py) |
 <!--
-| 0082 |
-| 0092 |
 | 0025 |
 | 0234 |
 | 0148 |
