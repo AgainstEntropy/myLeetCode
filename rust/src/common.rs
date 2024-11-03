@@ -29,11 +29,11 @@ pub fn create_linked_list(arr: Vec<i32>) -> Option<Box<ListNode>> {
     head
 }
 
-pub fn print_linked_list(head: Option<Box<ListNode>>) {
+pub fn print_linked_list(head: &Option<Box<ListNode>>) {
     let mut node = head;
     while let Some(n) = node {
         print!("{} -> ", n.val);
-        node = n.next;
+        node = &n.next;
     }
     println!("None");
 }

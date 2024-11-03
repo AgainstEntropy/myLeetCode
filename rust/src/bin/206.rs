@@ -30,9 +30,9 @@ fn main() {
 
     for case in cases {
         let head = create_linked_list(case);
-        print_linked_list(head.clone());
-        let new_head: Option<Box<ListNode>> = Solution::reverse_list(head);
-        print_linked_list(new_head);
+        print_linked_list(&head);
+        let new_head = Solution::reverse_list(head);
+        print_linked_list(&new_head);
         println!();
     }
 }
