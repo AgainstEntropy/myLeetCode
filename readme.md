@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![31%](https://progress-bar.xyz/31)
+![32%](https://progress-bar.xyz/32)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -57,9 +57,9 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0092 | <medium> Medium </medium> | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/92.py) | [Rust](./rust/src/bin/92.rs) | |
 | 0025 | <medium> Medium </medium> | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](./python/25.py) | | |
 | 0234 | <easy> Easy </easy> | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234.py) | | |
+| 0148 | <medium> Medium </medium> | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](./python/148.py) | [Rust](./rust/src/bin/148.rs) | [C++](./cpp/148.cpp) |
 | 0021 | <easy> Easy </easy> | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/21.py) | [Rust](./rust/src/bin/21.rs) | |
 <!--
-| 0148 |
 | 0023 |
 | 0141 |
 | 0142 |
