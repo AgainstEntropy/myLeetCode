@@ -23,3 +23,21 @@ def print_linked_list(head: Optional[ListNode]):
         print(head.val, end=' -> ')
         head = head.next
     print('None')
+
+
+def create_cycle_linked_list(arr, pos) -> Optional[ListNode]:
+
+    head = create_linked_list(arr)
+    if pos == -1:
+        return head
+
+    curr = head
+    for _ in range(pos):
+        curr = curr.next
+    cycle_node = curr
+
+    while curr.next:
+        curr = curr.next
+    curr.next = cycle_node
+
+    return head

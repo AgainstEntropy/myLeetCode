@@ -13,3 +13,5 @@ struct ListNode {
 ListNode* create_linked_list(const std::vector<int>& values);
 
 void print_linked_list(ListNode* head);
+
+ListNode* create_cycle_linked_list(const std::vector<int>& values, int pos);

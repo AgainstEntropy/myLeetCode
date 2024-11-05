@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![33%](https://progress-bar.xyz/33)
+![34%](https://progress-bar.xyz/34)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -60,8 +60,8 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0148 | <medium> Medium </medium> | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](./python/148.py) | [Rust](./rust/src/bin/148.rs) | [C++](./cpp/148.cpp) |
 | 0021 | <easy> Easy </easy> | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/21.py) | [Rust](./rust/src/bin/21.rs) | |
 | 0023 | <medium> Medium </medium> | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./python/23.py) | | |
+| 0141 | <easy> Easy </easy> | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./python/141.py) | | [C++](./cpp/141.cpp) |
 <!--
-| 0141 |
 | 0142 |
 | 0160 |
 | 0019 |

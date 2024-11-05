@@ -26,3 +26,27 @@ void print_linked_list(ListNode *head)
     }
     std::cout << "null" << std::endl;
 }
+
+ListNode *create_cycle_linked_list(const std::vector<int> &values, int pos)
+{
+
+    ListNode *head = create_linked_list(values);
+    if (pos == -1)
+        return head;
+
+    ListNode *curr = head;
+    ListNode *cycle_node;
+    for (int i = 0; i < pos; ++i)
+    {
+        curr = curr->next;
+    }
+    cycle_node = curr;
+
+    while (curr->next)
+    {
+        curr = curr->next;
+    }
+    curr->next = cycle_node;
+
+    return head;
+}

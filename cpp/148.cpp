@@ -47,8 +47,17 @@ public:
 };
 
 int main() {
-    ListNode* head = create_linked_list(std::vector<int>{4, 2, 1, 3});
-    print_linked_list(Solution().sortList(head));
+    std::vector<std::vector<int>> test_cases = {
+        {4, 2, 1, 3},
+        {-1, 5, 3, 4, 0},
+        {},
+    };
+
+    for (const auto &arr : test_cases)
+    {
+        ListNode* head = create_linked_list(arr);
+        print_linked_list(Solution().sortList(head));
+    }
     return 0;
 }
 
