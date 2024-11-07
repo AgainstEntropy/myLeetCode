@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![38%](https://progress-bar.xyz/38)
+![46%](https://progress-bar.xyz/46)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -55,25 +55,25 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0082 | <medium> Medium </medium> | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](./python/82.py) | | |
 | 0206 | <easy> Easy </easy> | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./python/206.py) | [Rust](./rust/src/bin/206.rs) | [C++](./cpp/206.cpp) |
 | 0092 | <medium> Medium </medium> | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/92.py) | [Rust](./rust/src/bin/92.rs) | |
-| 0025 | <medium> Medium </medium> | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](./python/25.py) | | |
+| 0025 | <hard> Hard </hard> | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](./python/25.py) | | |
 | 0234 | <easy> Easy </easy> | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234.py) | | |
 | 0148 | <medium> Medium </medium> | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](./python/148.py) | [Rust](./rust/src/bin/148.rs) | [C++](./cpp/148.cpp) |
 | 0021 | <easy> Easy </easy> | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/21.py) | [Rust](./rust/src/bin/21.rs) | |
-| 0023 | <medium> Medium </medium> | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./python/23.py) | | |
+| 0023 | <hard> Hard </hard> | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./python/23.py) | | |
 | 0141 | <easy> Easy </easy> | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./python/141.py) | | [C++](./cpp/141.cpp) |
 | 0142 | <medium> Medium </medium> | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./python/142.py) | | |
 | 0160 | <easy> Easy </easy> | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./python/160.py) | | |
 | 0019 | <medium> Medium </medium> | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./python/19.py) | | |
 | 0143 | <medium> Medium </medium> | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./python/143.py) | | |
+| 0002 | <medium> Medium </medium> | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/2.py) | | |
+| 0155 | <medium> Medium </medium> | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./python/155.py) | | |
+| 0020 | <easy> Easy </easy> | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./python/20.py) | | |
+| 0227 | <medium> Medium </medium> | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./python/227.py) | | |
+| 0232 | <easy> Easy </easy> | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./python/232.py) | | |
+| 0394 | <medium> Medium </medium> | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](./python/394.py) | | |
+| 0032 | <hard> Hard </hard> | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./python/32.py) | | |
+| 0042 | <hard> Hard </hard> | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./python/42.py) | | |
 <!--
-| 0002 |
-| 0155 |
-| 0020 |
-| 0227 |
-| 0232 |
-| 0394 |
-| 0032 |
-| 0042 |
 | 0225 |
 | 0041 |
 | 0128 |
