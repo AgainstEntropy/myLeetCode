@@ -45,7 +45,8 @@ impl Solution {
 }
 
 fn main() {
-    let head = create_linked_list(vec![1, 2, 3, 4, 5]);
+    let arr = vec![1, 2, 3, 4, 5];
+    let head = create_linked_list(&arr);
     print_linked_list(&head);
     let new_head = Solution::reverse_between(head, 2, 4);
     print_linked_list(&new_head);

@@ -29,8 +29,11 @@ impl Solution {
 }
 
 fn main() {
-    let list1 = create_linked_list(vec![1, 2, 4]);
-    let list2 = create_linked_list(vec![1, 3, 4]);
+    let arr1 = vec![1, 2, 4];
+    let arr2 = vec![1, 3, 4];
+
+    let list1 = create_linked_list(&arr1);
+    let list2 = create_linked_list(&arr2);
     print_linked_list(&list1);
     print_linked_list(&list2);
     print_linked_list(&Solution::merge_two_lists(list1, list2));

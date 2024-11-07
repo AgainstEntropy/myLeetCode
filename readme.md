@@ -74,7 +74,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0032 | <hard> Hard </hard> | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./python/32.py) | | |
 | 0042 | <hard> Hard </hard> | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./python/42.py) | | |
 | 0225 | <easy> Easy </easy> | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./python/225.py) | | |
-| 0041 | <hard> Hard </hard> | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./python/41.py) | | |
+| 0041 | <hard> Hard </hard> | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./python/41.py) | [Rust](./rust/src/bin/41.rs) | |
 <!--
 | 0128 |
 | 0003 |

@@ -67,7 +67,8 @@ impl Solution {
 }
 
 fn main() {
-    let head = create_linked_list(vec![-1, 5, 3, 4, 0]);
+    let arr = vec![-1, 5, 3, 4, 0];
+    let head = create_linked_list(&arr);
     print_linked_list(&head);
     print_linked_list(&Solution::sort_list(head));
 }

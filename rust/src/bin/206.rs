@@ -29,7 +29,7 @@ fn main() {
     ];
 
     for case in cases {
-        let head = create_linked_list(case);
+        let head = create_linked_list(&case);
         print_linked_list(&head);
         let new_head = Solution::reverse_list(head);
         print_linked_list(&new_head);

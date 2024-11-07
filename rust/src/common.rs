@@ -16,7 +16,7 @@ impl ListNode {
   }
 }
 
-pub fn create_linked_list(arr: Vec<i32>) -> Option<Box<ListNode>> {
+pub fn create_linked_list(arr: &Vec<i32>) -> Option<Box<ListNode>> {
     if arr.is_empty() {
         return None;
     }
