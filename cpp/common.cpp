@@ -50,3 +50,12 @@ ListNode *create_cycle_linked_list(const std::vector<int> &values, int pos)
 
     return head;
 }
+
+void print_vector(const std::vector<int> &values)
+{
+    for (const auto &value : values)
+    {
+        std::cout << value << " ";
+    }
+    std::cout << std::endl;
+}
