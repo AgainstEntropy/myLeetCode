@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![46%](https://progress-bar.xyz/46)
+![48%](https://progress-bar.xyz/48)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -44,10 +44,10 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0004 | <hard> Hard </hard> | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./python/4.py) | | |
 | 0240 | <medium> Medium </medium> | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](./python/240.py) | | |
 | 0069 | <easy> Easy </easy> | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./python/69.py) | | |
-| 0015 | <medium> Medium </medium> | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./python/15.py) | | |
+| 0015 | <medium> Medium </medium> | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./python/15.py) | | [C++](./cpp/15.cpp) |
 | 0283 | <easy> Easy </easy> | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python/283.py) | | |
 | 0415 | <easy> Easy </easy> | [Add Strings](https://leetcode.com/problems/add-strings/) | [Python](./python/415.py) | | |
-| 0239 | <hard> Hard </hard> | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](./python/239.py) | | |
+| 0239 | <hard> Hard </hard> | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](./python/239.py) | | [C++](./cpp/239.cpp) |
 | 0003 | <medium> Medium </medium> | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/3.py) | | |
 | 0076 | <hard> Hard </hard> | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./python/76.py) | | |
 | 0718 | <medium> Medium </medium> | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Python](./python/718.py) | | |
@@ -59,7 +59,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0234 | <easy> Easy </easy> | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234.py) | | |
 | 0148 | <medium> Medium </medium> | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](./python/148.py) | [Rust](./rust/src/bin/148.rs) | [C++](./cpp/148.cpp) |
 | 0021 | <easy> Easy </easy> | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/21.py) | [Rust](./rust/src/bin/21.rs) | |
-| 0023 | <hard> Hard </hard> | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./python/23.py) | | |
+| 0023 | <hard> Hard </hard> | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./python/23.py) | | [C++](./cpp/23.cpp) |
 | 0141 | <easy> Easy </easy> | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./python/141.py) | | [C++](./cpp/141.cpp) |
 | 0142 | <medium> Medium </medium> | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./python/142.py) | | |
 | 0160 | <easy> Easy </easy> | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./python/160.py) | | |
@@ -73,9 +73,9 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0394 | <medium> Medium </medium> | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](./python/394.py) | | |
 | 0032 | <hard> Hard </hard> | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./python/32.py) | | |
 | 0042 | <hard> Hard </hard> | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./python/42.py) | | |
+| 0225 | <easy> Easy </easy> | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./python/225.py) | | |
+| 0041 | <hard> Hard </hard> | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./python/41.py) | | |
 <!--
-| 0225 |
-| 0041 |
 | 0128 |
 | 0003 |
 | 0151 |

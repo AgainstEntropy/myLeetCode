@@ -7,11 +7,14 @@ class Solution:
         nums.sort()
         n = len(nums)
         solutions = []
-        if nums[0] > 0 or nums[-1] < 0: return solutions
+        if nums[0] > 0 or nums[-1] < 0:
+            return solutions
 
         for i, num in enumerate(nums[:n-2]):
-            if num > 0: break
-            elif num == 0 and nums[i+1] > 0: break
+            if num > 0:
+                break
+            elif num == 0 and nums[i+1] > 0:
+                break
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
             left, right = i + 1, n - 1
@@ -34,6 +37,7 @@ class Solution:
 
 if __name__ == '__main__':
     test_cases = [
+        ([-4,-2,-2,-2,0,1,2,2,2,3,3,4,4,6,6],),
         ([-1,0,1,2,-1,-4,-2,-3,3,0,4],),
         ([-1, 0, 1, 2, -1, -4],),
         ([0, 1, 1],),
