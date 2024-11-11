@@ -1,5 +1,5 @@
 # Longest Substring Without Repeating Characters
-# 最长不重复子串
+# 无重复字符的最长子串
 
 
 class Solution:
