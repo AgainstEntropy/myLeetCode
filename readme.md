@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![48%](https://progress-bar.xyz/48)
+![53%](https://progress-bar.xyz/53)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -29,7 +29,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | ---: | :--------: | :---- | :-------- | - | - |
 | 0054 | <medium> Medium </medium> | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./python/54.py) | [Rust](./rust/src/bin/54.rs) | |
 | 0048 | <medium> Medium </medium> | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/48.py) | | |
-| 0215 | <medium> Medium </medium> | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./python/215.py) | | |
+| 0215 | <medium> Medium </medium> | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./python/215.py) | | [C++](./cpp/215.cpp) |
 | 0912 | <medium> Medium </medium> | [Sort an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./python/912.py) | | |
 | 0088 | <easy> Easy </easy> | [Merge Sorted Array](https://leetcode.com/problems/sort-an-array/) | [Python](./python/88.py) | | |
 | 0169 | <easy> Easy </easy> | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./python/169.py) | | |
@@ -48,7 +48,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0283 | <easy> Easy </easy> | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python/283.py) | | |
 | 0415 | <easy> Easy </easy> | [Add Strings](https://leetcode.com/problems/add-strings/) | [Python](./python/415.py) | | |
 | 0239 | <hard> Hard </hard> | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](./python/239.py) | | [C++](./cpp/239.cpp) |
-| 0003 | <medium> Medium </medium> | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/3.py) | | |
+| 0003 | <medium> Medium </medium> | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/3.py) | [Rust](./rust/src/bin/3.rs) | |
 | 0076 | <hard> Hard </hard> | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./python/76.py) | | |
 | 0718 | <medium> Medium </medium> | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Python](./python/718.py) | | |
 | 0083 | <easy> Easy </easy> | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./python/83.py) | | |
@@ -75,12 +75,25 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0042 | <hard> Hard </hard> | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./python/42.py) | | |
 | 0225 | <easy> Easy </easy> | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./python/225.py) | | |
 | 0041 | <hard> Hard </hard> | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./python/41.py) | [Rust](./rust/src/bin/41.rs) | |
-<!--
-| 0128 |
-| 0003 |
-| 0151 |
-| 0043 |
-| 0014 | -->
+| 0128 | <medium> Medium </medium> | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./python/128.py) | | [C++](./cpp/128.cpp) |
+| 0005 | <medium> Medium </medium> | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/5.py) | | |
+| 0151 | <medium> Medium </medium> | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./python/151.py) | | |
+| 0043 | <medium> Medium </medium> | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](./python/43.py) | | |
+| 0014 | <easy> Easy </easy> | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./python/14.py) | | |
+
+<!-- |0144
+|0094
+|0102
+|0103
+|0236
+|0104
+|0112
+|0113
+|0101
+|0124
+|0199
+|0226 -->
+
 
 ### Others
 

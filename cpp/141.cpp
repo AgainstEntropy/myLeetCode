@@ -3,8 +3,6 @@
 
 #include "common.h"
 
-#include <iostream>
-
 class Solution
 {
 public:
