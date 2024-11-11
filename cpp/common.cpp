@@ -2,6 +2,18 @@
 
 #include <iostream>
 
+void print_vector(const std::vector<int> &values)
+{
+    for (const auto &value : values)
+    {
+        std::cout << value << " ";
+    }
+    std::cout << std::endl;
+}
+
+//
+// Linked List
+//
 ListNode *create_linked_list(const std::vector<int> &values)
 {
     if (values.empty())
@@ -51,11 +63,36 @@ ListNode *create_cycle_linked_list(const std::vector<int> &values, int pos)
     return head;
 }
 
-void print_vector(const std::vector<int> &values)
+//
+// Binary Tree
+//
+TreeNode *create_binary_tree(const std::vector<int> &values)
 {
-    for (const auto &value : values)
+    if (values.empty())
+        return nullptr;
+
+    std::queue<TreeNode *> q;
+    TreeNode *root = new TreeNode(values[0]);
+    q.push(root);
+    int i = 1;
+
+    while (!q.empty())
     {
-        std::cout << value << " ";
+        TreeNode *node = q.front();
+        q.pop();
+        if (i < values.size() && values[i] != NULL_VALUE)
+        {
+            node->left = new TreeNode(values[i]);
+            q.push(node->left);
+        }
+        i++;
+        if (i < values.size() && values[i] != NULL_VALUE)
+        {
+            node->right = new TreeNode(values[i]);
+            q.push(node->right);
+        }
+        i++;
     }
-    std::cout << std::endl;
+
+    return root;
 }

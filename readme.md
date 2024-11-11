@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![53%](https://progress-bar.xyz/53)
+![56%](https://progress-bar.xyz/56)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -80,10 +80,11 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0151 | <medium> Medium </medium> | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./python/151.py) | | |
 | 0043 | <medium> Medium </medium> | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](./python/43.py) | | |
 | 0014 | <easy> Easy </easy> | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./python/14.py) | | |
+| 0144 | <easy> Easy </easy> | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./python/144.py) | [Rust](./rust/src/bin/144.rs) | [C++](./cpp/144.cpp) |
+| 0094 | <easy> Easy </easy> | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/94.py) | [Rust](./rust/src/bin/94.rs) | [C++](./cpp/94.cpp) |
+| 0102 | <medium> Medium </medium> | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./python/102.py) | [Rust](./rust/src/bin/102.rs) | [C++](./cpp/102.cpp) |
 
-<!-- |0144
-|0094
-|0102
+<!--
 |0103
 |0236
 |0104
@@ -92,8 +93,8 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 |0101
 |0124
 |0199
-|0226 -->
-
+|0226
+-->
 
 ### Others
 
@@ -103,3 +104,4 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0039 | <medium> Medium </medium> | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/39.py) |  |  |
 | 0167 | <medium> Medium </medium> | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/167.py) |  |  |
 | 0516 | <medium> Medium </medium> | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |  |
+| 2601 | <medium> Medium </medium> | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python](./python/2601.py) | | |
