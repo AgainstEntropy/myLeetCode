@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![67%](https://progress-bar.xyz/67)
+![70%](https://progress-bar.xyz/70)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -94,11 +94,11 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0226 | <easy> Easy </easy> | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./python/226.py) | | |
 | 0001 | <easy> Easy </easy> | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1.py) |  | [C++](./cpp/1.cpp) |
 | 0146 | <medium> Medium </medium> | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146.py) | | |
+| 0105 | <medium> Medium </medium> | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./python/105.py) | | |
+| 0098 | <medium> Medium </medium> | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./python/98.py) | | |
+| 0110 | <easy> Easy </easy> | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110.py) | | |
 
 <!--
-0105
-0098
-0110
 
 0200
 0695
