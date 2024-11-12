@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![56%](https://progress-bar.xyz/56)
+![61%](https://progress-bar.xyz/61)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -83,13 +83,13 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0144 | <easy> Easy </easy> | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./python/144.py) | [Rust](./rust/src/bin/144.rs) | [C++](./cpp/144.cpp) |
 | 0094 | <easy> Easy </easy> | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/94.py) | [Rust](./rust/src/bin/94.rs) | [C++](./cpp/94.cpp) |
 | 0102 | <medium> Medium </medium> | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./python/102.py) | [Rust](./rust/src/bin/102.rs) | [C++](./cpp/102.cpp) |
+| 0103 | <medium> Medium </medium> | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](./python/103.py) | | |
+| 0236 | <medium> Medium </medium> | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./python/236.py) | | |
+| 0104 | <easy> Easy </easy> | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104.py) | | |
+| 0112 | <easy> Easy </easy> | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python](./python/112.py) | | |
+| 0113 | <medium> Medium </medium> | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Python](./python/113.py) | | |
 
 <!--
-|0103
-|0236
-|0104
-|0112
-|0113
 |0101
 |0124
 |0199

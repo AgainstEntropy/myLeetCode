@@ -95,3 +95,11 @@ def create_binary_tree(arr: List[int]) -> Optional[TreeNode]:
         i += 1
 
     return root
+
+
+def find_node(root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+    if root is None:
+        return None
+    if root.val == val:
+        return root
+    return find_node(root.left, val) or find_node(root.right, val)
