@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![61%](https://progress-bar.xyz/61)
+![65%](https://progress-bar.xyz/65)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -88,20 +88,65 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0104 | <easy> Easy </easy> | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104.py) | | |
 | 0112 | <easy> Easy </easy> | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python](./python/112.py) | | |
 | 0113 | <medium> Medium </medium> | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Python](./python/113.py) | | |
+| 0101 | <easy> Easy </easy> | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./python/101.py) | | |
+| 0124 | <hard> Hard </hard> | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](./python/124.py) | | |
+| 0199 | <medium> Medium </medium> | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](./python/199.py) | | |
+| 0226 | <easy> Easy </easy> | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./python/226.py) | | |
+| 0001 | <easy> Easy </easy> | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1.py) |  | [C++](./cpp/1.cpp) |
 
 <!--
-|0101
-|0124
-|0199
-|0226
+0105
+0098
+0110
+
+0200
+0695
+0129
+0543
+0662
+0322
+
+0078
+0221
+
+0024
+0070
+
+0053
+
+0046
+0022
+| 0039 | <medium> Medium </medium> | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/39.py) |  |  |
+0093
+
+0122
+
+0136
+
+0121
+0300
+1143
+0718
+0064
+0072
+0062
+0152
+0198
+
+0146
+0008
+0165
+0468
+
+0031
+0470
 -->
 
 ### Others
 
 | No.  | Difficulty | Title | Solutions | | |
 | :--- | :--------: | :---- | :-------- | - | - |
-| 0001 | <easy> Easy </easy> | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1.py) |  | [C++](./cpp/1.cpp) |
-| 0039 | <medium> Medium </medium> | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/39.py) |  |  |
 | 0167 | <medium> Medium </medium> | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/167.py) |  |  |
 | 0516 | <medium> Medium </medium> | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |  |
 | 2601 | <medium> Medium </medium> | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python](./python/2601.py) | | |
+| 2070 | <medium> Medium </medium> | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python](./python/2070.py) | | |
