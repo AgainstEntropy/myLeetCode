@@ -151,3 +151,4 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0516 | <medium> Medium </medium> | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |  |
 | 2601 | <medium> Medium </medium> | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python](./python/2601.py) | | |
 | 2070 | <medium> Medium </medium> | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python](./python/2070.py) | | |
+| 0767 | <medium> Medium </medium> | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python](./python/767.py) | | |
