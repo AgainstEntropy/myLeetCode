@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![65%](https://progress-bar.xyz/65)
+![67%](https://progress-bar.xyz/67)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -93,6 +93,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0199 | <medium> Medium </medium> | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](./python/199.py) | | |
 | 0226 | <easy> Easy </easy> | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./python/226.py) | | |
 | 0001 | <easy> Easy </easy> | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1.py) |  | [C++](./cpp/1.cpp) |
+| 0146 | <medium> Medium </medium> | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146.py) | | |
 
 <!--
 0105
