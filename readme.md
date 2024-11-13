@@ -97,13 +97,13 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0105 | <medium> Medium </medium> | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./python/105.py) | | |
 | 0098 | <medium> Medium </medium> | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./python/98.py) | | |
 | 0110 | <easy> Easy </easy> | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110.py) | | |
+| 0200 | <medium> Medium </medium> | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/200.py) | [Rust](./rust/src/bin/200.rs) | [C++](./cpp/200.cpp) |
+| 0695 | <medium> Medium </medium> | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./python/695.py) | | |
+| 0129 | <medium> Medium </medium> | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](./python/129.py) | | |
+| 0543 | <easy> Easy </easy> | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543.py) | | |
 
 <!--
 
-0200
-0695
-0129
-0543
 0662
 0322
 
