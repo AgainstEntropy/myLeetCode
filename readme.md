@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![74%](https://progress-bar.xyz/74)
+![76%](https://progress-bar.xyz/76)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -101,11 +101,10 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0695 | <medium> Medium </medium> | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./python/695.py) | | |
 | 0129 | <medium> Medium </medium> | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](./python/129.py) | | |
 | 0543 | <easy> Easy </easy> | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543.py) | | |
+| 0662 | <medium> Medium </medium> | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Python](./python/662.py) | | |
+| 0322 | <medium> Medium </medium> | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./python/322.py) | [Rust](./rust/src/bin/322.rs) | [C++](./cpp/322.cpp) |
 
 <!--
-
-0662
-0322
 
 0078
 0221
