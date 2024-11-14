@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![76%](https://progress-bar.xyz/76)
+![79%](https://progress-bar.xyz/79)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -103,6 +103,9 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0543 | <easy> Easy </easy> | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543.py) | | |
 | 0662 | <medium> Medium </medium> | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Python](./python/662.py) | | |
 | 0322 | <medium> Medium </medium> | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./python/322.py) | [Rust](./rust/src/bin/322.rs) | [C++](./cpp/322.cpp) |
+| 0070 | <easy> Easy </easy> | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/70.py) | | |
+| 0121 | <easy> Easy </easy> | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121.py) | | |
+| 0300 | <medium> Medium </medium> | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./python/300.py) | | |
 
 <!--
 
@@ -110,7 +113,6 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 0221
 
 0024
-0070
 
 0053
 
@@ -123,8 +125,6 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 0136
 
-0121
-0300
 1143
 0718
 0064
