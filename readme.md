@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![89%](https://progress-bar.xyz/89)
+![90%](https://progress-bar.xyz/90)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -116,10 +116,10 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0078 | <medium> Medium </medium> | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/78.py) | | |
 | 0024 | <medium> Medium </medium> | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/24.py) | | |
 | 0053 | <medium> Medium </medium> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53.py) | | |
+| 0046 | <medium> Medium </medium> | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/46.py) | | |
 
 <!--
 
-0046
 0022
 | 0039 | <medium> Medium </medium> | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/39.py) |  |  |
 0093
@@ -137,13 +137,19 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 0470
 -->
 
-### Others
+## Leetcode Daily Questions
+
+| Date  | No. | Difficulty | Title | Solutions |
+| :---: | :---: | :--------: | :---- | :-------- |
+| 2024-11-11 | 2601 | <medium> Medium </medium> | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python](./python/2601.py) |
+| 2024-11-12 | 2070 | <medium> Medium </medium> | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python](./python/2070.py) |
+| 2024-11-14 | 2064 | <medium> Medium </medium> | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Python](./python/2064.py) |
+| 2024-11-15 | 1574 | <medium> Medium </medium> | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [Python](./python/1574.py) |
+
+## Others
 
 | No.  | Difficulty | Title | Solutions | | |
 | :--- | :--------: | :---- | :-------- | - | - |
 | 0167 | <medium> Medium </medium> | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/167.py) |  |  |
 | 0516 | <medium> Medium </medium> | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |  |
-| 2601 | <medium> Medium </medium> | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python](./python/2601.py) | | |
-| 2070 | <medium> Medium </medium> | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python](./python/2070.py) | | |
 | 0767 | <medium> Medium </medium> | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python](./python/767.py) | | |
-| 2064 | <medium> Medium </medium> | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Python](./python/2064.py) | | |
