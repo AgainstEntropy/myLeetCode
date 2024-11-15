@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![79%](https://progress-bar.xyz/79)
+![89%](https://progress-bar.xyz/89)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -106,15 +106,18 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0070 | <easy> Easy </easy> | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/70.py) | | |
 | 0121 | <easy> Easy </easy> | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121.py) | | |
 | 0300 | <medium> Medium </medium> | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./python/300.py) | | |
+| 1143 | <medium> Medium </medium> | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./python/1143.py) | | |
+| 0064 | <medium> Medium </medium> | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/64.py) | | |
+| 0072 | <medium> Medium </medium> | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](./python/72.py) | | |
+| 0221 | <medium> Medium </medium> | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](./python/221.py) | | |
+| 0062 | <medium> Medium </medium> | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/62.py) | | |
+| 0152 | <medium> Medium </medium> | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./python/152.py) | | |
+| 0198 | <medium> Medium </medium> | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./python/198.py) | | |
+| 0078 | <medium> Medium </medium> | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/78.py) | | |
+| 0024 | <medium> Medium </medium> | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/24.py) | | |
+| 0053 | <medium> Medium </medium> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53.py) | | |
 
 <!--
-
-0078
-0221
-
-0024
-
-0053
 
 0046
 0022
@@ -124,14 +127,6 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 0122
 
 0136
-
-1143
-0718
-0064
-0072
-0062
-0152
-0198
 
 0146
 0008
@@ -151,3 +146,4 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 2601 | <medium> Medium </medium> | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Python](./python/2601.py) | | |
 | 2070 | <medium> Medium </medium> | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python](./python/2070.py) | | |
 | 0767 | <medium> Medium </medium> | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python](./python/767.py) | | |
+| 2064 | <medium> Medium </medium> | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Python](./python/2064.py) | | |
