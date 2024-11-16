@@ -145,6 +145,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 2024-11-12 | 2070 | <medium> Medium </medium> | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Python](./python/2070.py) |
 | 2024-11-14 | 2064 | <medium> Medium </medium> | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Python](./python/2064.py) |
 | 2024-11-15 | 1574 | <medium> Medium </medium> | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [Python](./python/1574.py) |
+| 2024-11-16 | 3254 | <medium> Medium </medium> | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Python](./python/3254.py) |
 
 ## Others
 
