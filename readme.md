@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![90%](https://progress-bar.xyz/90)
+![91%](https://progress-bar.xyz/91)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -117,12 +117,10 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0024 | <medium> Medium </medium> | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/24.py) | | |
 | 0053 | <medium> Medium </medium> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53.py) | | |
 | 0046 | <medium> Medium </medium> | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/46.py) | | |
+| 0022 | <medium> Medium </medium> | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./python/22.py) | | |
+<!-- | 0093 | <medium> Medium </medium> | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](./python/93.py) | | | -->
 
 <!--
-
-0022
-| 0039 | <medium> Medium </medium> | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/39.py) |  |  |
-0093
 
 0122
 

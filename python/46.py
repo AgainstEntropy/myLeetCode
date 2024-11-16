@@ -20,6 +20,31 @@ class Solution:
 
         return ans
 
+    def permute_backtracking(self, nums: List[int]) -> List[List[int]]:
+        n = len(nums)
+        selected = [False] * n
+        ans = []
+        stack = []
+
+        def backtrack(index: int):
+            if index == n:
+                ans.append(stack.copy())
+                return
+
+            for i in range(n):
+                if not selected[i]:
+                    stack.append(nums[i])
+                    selected[i] = True
+
+                    backtrack(index + 1)
+
+                    stack.pop()
+                    selected[i] = False
+
+        backtrack(0)
+
+        return ans
+
 
 if __name__ == "__main__":
     test_cases = [
@@ -31,4 +56,5 @@ if __name__ == "__main__":
     sol = Solution()
 
     for nums in test_cases:
-        print(sol.permute(nums))
+        # print(sol.permute(nums))
+        print(sol.permute_backtracking(nums))
