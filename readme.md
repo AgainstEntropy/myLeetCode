@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![91%](https://progress-bar.xyz/91)
+![93%](https://progress-bar.xyz/93)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -118,16 +118,12 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0053 | <medium> Medium </medium> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53.py) | | |
 | 0046 | <medium> Medium </medium> | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/46.py) | | |
 | 0022 | <medium> Medium </medium> | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./python/22.py) | | |
-<!-- | 0093 | <medium> Medium </medium> | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](./python/93.py) | | | -->
+| 0093 | <medium> Medium </medium> | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](./python/93.py) | | |
+| 0122 | <medium> Medium </medium> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122.py) | | |
+<!-- | 0008 | <medium> Medium </medium> | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./python/8.py) | | | -->
 
 <!--
 
-0122
-
-0136
-
-0146
-0008
 0165
 0468
 
