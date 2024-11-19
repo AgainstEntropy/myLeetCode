@@ -20,10 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![98%](https://progress-bar.xyz/98)
-<!-- | Python  | Rust |
-| :---: | :---: |
-| ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
+![100%](https://progress-bar.xyz/100)
 
 | No.  | Difficulty | Title | Solutions | | |
 | ---: | :--------: | :---- | :-------- | - | - |
@@ -64,6 +61,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0142 | <medium> Medium </medium> | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./python/142.py) | | |
 | 0160 | <easy> Easy </easy> | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./python/160.py) | | |
 | 0019 | <medium> Medium </medium> | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./python/19.py) | | |
+| LCR 140 | <medium> Medium </medium> | [LCR 140. 训练计划 II](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/description/) | [Python](./python/LCR140.py) | | |
 | 0143 | <medium> Medium </medium> | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./python/143.py) | | |
 | 0002 | <medium> Medium </medium> | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/2.py) | | |
 | 0155 | <medium> Medium </medium> | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./python/155.py) | | |
@@ -74,6 +72,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0032 | <hard> Hard </hard> | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./python/32.py) | | |
 | 0042 | <hard> Hard </hard> | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./python/42.py) | | |
 | 0225 | <easy> Easy </easy> | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./python/225.py) | | |
+| 0001 | <easy> Easy </easy> | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1.py) | | [C++](./cpp/1.cpp) |
 | 0041 | <hard> Hard </hard> | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./python/41.py) | [Rust](./rust/src/bin/41.rs) | |
 | 0128 | <medium> Medium </medium> | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./python/128.py) | | [C++](./cpp/128.cpp) |
 | 0005 | <medium> Medium </medium> | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/5.py) | | |
@@ -92,8 +91,6 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0124 | <hard> Hard </hard> | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](./python/124.py) | | |
 | 0199 | <medium> Medium </medium> | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](./python/199.py) | | |
 | 0226 | <easy> Easy </easy> | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./python/226.py) | | |
-| 0001 | <easy> Easy </easy> | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1.py) |  | [C++](./cpp/1.cpp) |
-| 0146 | <medium> Medium </medium> | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146.py) | | |
 | 0105 | <medium> Medium </medium> | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./python/105.py) | | |
 | 0098 | <medium> Medium </medium> | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./python/98.py) | | |
 | 0110 | <easy> Easy </easy> | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110.py) | | |
@@ -118,16 +115,15 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0053 | <medium> Medium </medium> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/53.py) | | |
 | 0046 | <medium> Medium </medium> | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/46.py) | | |
 | 0022 | <medium> Medium </medium> | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./python/22.py) | | |
+| 0039 | <medium> Medium </medium> | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/39.py) | | |
 | 0093 | <medium> Medium </medium> | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](./python/93.py) | | |
 | 0122 | <medium> Medium </medium> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122.py) | | |
+| 0146 | <medium> Medium </medium> | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146.py) | | |
 | 0008 | <medium> Medium </medium> | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./python/8.py) | | |
 | 0165 | <medium> Medium </medium> | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](./python/165.py) | | |
 | 0468 | <medium> Medium </medium> | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python](./python/468.py) | | |
 | 0031 | <medium> Medium </medium> | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./python/31.py) | | |
 | 0470 | <medium> Medium </medium> | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Python](./python/470.py) | | |
-
-<!--
--->
 
 ## Leetcode Daily Questions
 
