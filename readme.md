@@ -20,7 +20,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 
 ### [100 List](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/06.Interview-100-List.md)
 
-![93%](https://progress-bar.xyz/93)
+![98%](https://progress-bar.xyz/98)
 <!-- | Python  | Rust |
 | :---: | :---: |
 | ![11%](https://progress-bar.xyz/11) | ![0%](https://progress-bar.xyz/0) |  -->
@@ -120,15 +120,13 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 0022 | <medium> Medium </medium> | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./python/22.py) | | |
 | 0093 | <medium> Medium </medium> | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](./python/93.py) | | |
 | 0122 | <medium> Medium </medium> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122.py) | | |
-<!-- | 0008 | <medium> Medium </medium> | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./python/8.py) | | | -->
+| 0008 | <medium> Medium </medium> | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./python/8.py) | | |
+| 0165 | <medium> Medium </medium> | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](./python/165.py) | | |
+| 0468 | <medium> Medium </medium> | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python](./python/468.py) | | |
+| 0031 | <medium> Medium </medium> | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./python/31.py) | | |
+| 0470 | <medium> Medium </medium> | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Python](./python/470.py) | | |
 
 <!--
-
-0165
-0468
-
-0031
-0470
 -->
 
 ## Leetcode Daily Questions
