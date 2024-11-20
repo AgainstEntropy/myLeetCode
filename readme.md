@@ -135,6 +135,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 2024-11-15 | 1574 | <medium> Medium </medium> | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [Python](./python/1574.py) |
 | 2024-11-16 | 3254 | <medium> Medium </medium> | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Python](./python/3254.py) |
 | 2024-11-19 | 2461 | <medium> Medium </medium> | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/?envType=daily-question&envId=2024-11-19) | [Python](./python/2461.py) |
+| 2024-11-20 | 2516 | <medium> Medium </medium> | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/?envType=daily-question&envId=2024-11-20) | [Python](./python/2516.py) |
 
 ## Others
 
