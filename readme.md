@@ -136,6 +136,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 2024-11-16 | 3254 | <medium> Medium </medium> | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Python](./python/3254.py) |
 | 2024-11-19 | 2461 | <medium> Medium </medium> | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/?envType=daily-question&envId=2024-11-19) | [Python](./python/2461.py) |
 | 2024-11-20 | 2516 | <medium> Medium </medium> | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/?envType=daily-question&envId=2024-11-20) | [Python](./python/2516.py) |
+| 2024-11-21 | 2257 | <medium> Medium </medium> | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/?envType=daily-question&envId=2024-11-21) | [Python](./python/2517.py) |
 
 ## Others
 
