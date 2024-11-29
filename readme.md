@@ -137,6 +137,8 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 2024-11-19 | 2461 | <medium> Medium </medium> | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/?envType=daily-question&envId=2024-11-19) | [Python](./python/2461.py) |
 | 2024-11-20 | 2516 | <medium> Medium </medium> | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/?envType=daily-question&envId=2024-11-20) | [Python](./python/2516.py) |
 | 2024-11-21 | 2257 | <medium> Medium </medium> | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/?envType=daily-question&envId=2024-11-21) | [Python](./python/2517.py) |
+| 2024-11-23 | 1861 | <medium> Medium </medium> | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2024-11-23) | [Python](./python/1861.py) |
+<!-- | 2024-11-22 | 1072 | <medium> Medium </medium> | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/?envType=daily-question&envId=2024-11-22) | [Python](./python/1072.py) | -->
 
 ## Others
 
