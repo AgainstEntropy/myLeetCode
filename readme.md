@@ -139,6 +139,7 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | 2024-11-21 | 2257 | <medium> Medium </medium> | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/?envType=daily-question&envId=2024-11-21) | [Python](./python/2517.py) |
 | 2024-11-23 | 1861 | <medium> Medium </medium> | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2024-11-23) | [Python](./python/1861.py) |
 | 2025-09-10 | 2785 | <medium> Medium </medium> | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2025-09-10) | [Python](./python/2785.py) |
+| 2025-09-11 | 3227 | <medium> Medium </medium> | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/?envType=daily-question&envId=2025-09-11) | [Python](./python/3227.py) |
 <!-- | 2024-11-22 | 1072 | <medium> Medium </medium> | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/?envType=daily-question&envId=2024-11-22) | [Python](./python/1072.py) | -->
 
 ## Others
@@ -146,5 +147,6 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | No.  | Difficulty | Title | Solutions | | |
 | :--- | :--------: | :---- | :-------- | - | - |
 | 0167 | <medium> Medium </medium> | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/167.py) |  |  |
+| 0187 | <medium> Medium </medium> | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python](./python/187.py) | |
 | 0516 | <medium> Medium </medium> | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |  |
 | 0767 | <medium> Medium </medium> | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python](./python/767.py) | | |
