@@ -148,5 +148,6 @@ A record of my leetcode solving in Python, Rust, C/C++, ...
 | :--- | :--------: | :---- | :-------- | - | - |
 | 0167 | <medium> Medium </medium> | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/167.py) |  |  |
 | 0187 | <medium> Medium </medium> | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python](./python/187.py) | |
+| 0223 | <medium> Medium </medium> | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Python](./python/223.py) | |
 | 0516 | <medium> Medium </medium> | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/516.py) | [Rust](./rust/src/bin/516.rs) |  |
 | 0767 | <medium> Medium </medium> | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Python](./python/767.py) | | |
